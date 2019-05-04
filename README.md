@@ -4,7 +4,5 @@
 
 Requerimientos 
 
-- tabulate
+- tabulate (pip install tabulate)
 
-PIP
-pip install tabulate
