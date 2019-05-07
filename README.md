@@ -14,4 +14,7 @@ Starting at the top left corner of an N x M grid and facing towards the right, y
 
 Para resolver este problema genere la clase Grid en Grid.py la cual genera una matris de Nodos los cuales tienen variables de si ya fueron visitados o no. Una vez finalizado la iteracion se imprime el resultado.
 
-* La Clase Grid viene con un constructor que rec
+* La Clase Grid tiene una clase llamada calculate que recibe Timer la cual es una variable que dice si despliega el tiempo o no y verbose que despliega el procedimiento.
+
+* grid.calculate(Timer, Verbose)
+
