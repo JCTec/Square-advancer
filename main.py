@@ -17,4 +17,7 @@ except (TypeError, ValueError):
 
 grid = Grid(x, y)
 
+# Para mostrar el procedimiento comenta esta linea
 grid.calculate(True, False)
+# Y descomenta esta 
+# grid.calculate(True, True)
